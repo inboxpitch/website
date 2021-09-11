@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How I Can Help Your Brand
-permalink: /Services/
+permalink: /services/
 ---
 ### 90 Day Email Make Over - Best for Brands who need a solid email money machine in place
 - I build out 11 core pre-purchase and post-purchas email flows in Klyavio
@@ -11,4 +11,4 @@ permalink: /Services/
 
 ### Your Ongoing Outsourced Email Team - Best for Brands who to don't have enough time focus on email strategy and need a more hands off solution
 - Everything from the package above + you can count on us to handle all things email. 
-- Besides setting up all the right foundations with automations we do all the design, copywriting and scheduling for your ongoing email broadcasts/ campaigns in collaboration with your team. 
+- Besides setting up all the right foundations with automations we do all the design, copywriting and scheduling for your ongoing email broadcasts/ campaigns in collaboration with your team.  
